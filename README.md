@@ -30,10 +30,18 @@ login system
 🏗️ tools:
 
 
-Frontend: HTML, CSS
-Backend: PHP
-Database: MySQL
-Tools: XAMPP / Localhost
+Frontend: 
+
+HTML, CSS
+Backend:
+
+PHP
+Database:
+
+MySQL
+Tools:
+
+XAMPP / Localhost
 
 
 
