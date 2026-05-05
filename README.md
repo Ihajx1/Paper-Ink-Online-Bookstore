@@ -21,7 +21,7 @@ Category-based organization
 Image upload and display
 login system
 
-🏗️ Tech Stack:
+🏗️ tools:
 Frontend: HTML, CSS
 Backend: PHP
 Database: MySQL
